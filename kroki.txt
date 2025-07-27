@@ -1,0 +1,12 @@
+1. Przygotować obraz (obrobić), aby był czytelny do odczytu przez EasyOcr
+2. Odczyt przez EasyOcr
+3. Sprawdzenie CheckSumy
+4. Jeśli Checksuma jest ok to:
+    a) Uzupełniamy csv
+    b) Przygotowujemy obraz do odczytu z innymi parametrami jak w pkt.1 i lecimy dalej pkt.2 itd.
+
+
+
+To do:
+- znalezc najlepsze ustawienia
+- dorobic kilka innych ktore przechodzą.
